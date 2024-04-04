@@ -35,9 +35,9 @@ export default function Page() {
           {/* Add Hero Images Here */}
           <Image
             src="/hero-desktop.png"
-            width={560}
+            width={1000}
             height={620}
-            className="block md:hidden"
+            className="hidden md:block"
             alt="Screenshots of the dashboard project showing desktop version"
           />
         </div>
