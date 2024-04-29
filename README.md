@@ -62,7 +62,9 @@ We are deploying on Vercel you can read Vercel docs
 
 ## Screenshots
 
-https://vercel.com/docs/deployments/git<img width="1800" alt="Screenshot 2024-04-29 at 12 47 45" src="https://github.com/Dyzy-Hacker/Next/assets/69049191/0385565a-d801-422e-8361-ff30a07dda07">
+https://vercel.com/docs/deployments/git
+
+<img width="1800" alt="Screenshot 2024-04-29 at 12 47 45" src="https://github.com/Dyzy-Hacker/Next/assets/69049191/0385565a-d801-422e-8361-ff30a07dda07">
 
 
 ## 🔗 Links of the site
